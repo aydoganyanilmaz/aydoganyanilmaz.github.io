@@ -1,0 +1,29 @@
+---
+layout: archive
+title: "NLP/NLU"
+permalink: /nlp/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p> It's really a quite exciting experience to help computers advance their natural language processing and understanding. </p>
+<p> Currently, I am working as a part-time computational linguist at NTENT, Inc. in the build-up of the semantic search engine for 
+  the Turkish language. I am part of the development team at this project where I extend the available 
+  semantic processing to Turkish language and enabling the search quality evaluation. To do so, I manage the extensive 
+  ontology by making necessary modifications on the concepts of the knowledge representation. Moreover, for specific 
+  ambiguous or language specific expressions, I develop semantic relation frameworks and then I perform functional tests 
+  to ensure quality standards.</p>
+<p> Before joining the NTENT team, I worked as a computational linguist developing the Turkish grammar 
+  for the error correction and detection program of the Microsoft Office 15. I was part of the Development Team at this 
+  project and I had a good amount of experience in annotation as well as filtering and mining software. Drawing upon the 
+  results from filtering and mining, I wrote linguistic error critiques that contained structured linguistic descriptions 
+  as well as annotation rules in accordance with the proprietary linguistic software. In the absence of a POS tagging, 
+  I wrote string-based computational rules wrapped around regular expressions. Then, I implemented and tested each 
+  annotation in the grammar of the linguistic software. The project ended up being a great success. </p>
+<p> My computational experience at these two projects has opened a new window in my life. Any contribution that I've had so far has
+  been in effect at the fingerprints of millions of users. </p>
+
+{% for post in site.nlp reversed %}
+  {% include archive-single.html %}
+{% endfor %}
