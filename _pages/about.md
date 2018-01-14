@@ -27,7 +27,7 @@ Here is my current <a href="https://aydoganyanilmaz.github.io/files/ay_cv_dec201
 
 ---
 
-| :eyes: Recent News :eyes:   |
+| Recent News   |
 | :------------ |
 | 3 posters at <a href="http://cuny2018.ucdavis.edu/" target="_blank">CUNY18</a> to be held in <a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a>.       |
 | A talk at <a href="http://www.iub.edu/~concall/" target="_blank">ConCALL-3</a> to be held in <a href="https://www.indiana.edu/" target="_blank">UI Bloomington</a>. |
