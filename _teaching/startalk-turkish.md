@@ -1,6 +1,8 @@
 ---
 title: "StarTalk Turkish"
 permalink: /teaching/startalk-turkish.md
+venue: "Stony Brook University and Agnes Scott College"
+location: "Stony Brook and Decatur, US"
 ---
 
 Here you can find more about my experience in teaching Turkish within StarTalk program.
