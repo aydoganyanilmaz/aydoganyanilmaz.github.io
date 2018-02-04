@@ -14,45 +14,7 @@ author_profile: true
                                                                             rel="noopener">METU FLE</a>&nbsp;, I had opportunity to teach in a variety of settings in my professional career. Also, 
 I've been lucky enough to work with amazing teaching role models such as <a href="https://linguistics.stonybrook.edu/faculty/richard.larson" style="color:#52adc8" target="_blank" rel="noopener">Richard Larson</a>, <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn" style="color:#52adc8" target="_blank" rel="noopener">John Bailyn</a>&nbsp;and <a href="http://www.idb.hacettepe.edu.tr/En/faculty-members.html"  style="color:#52adc8" target="_blank" rel="noopener">Nalan B&uuml;y&uuml;kkantarcıoğlu</a>
 
-  <head>
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current', {packages:["orgchart"]});
-      google.charts.setOnLoadCallback(drawChart);
-
-      function drawChart() {
-        var data = new google.visualization.DataTable();
-        data.addColumn('string', 'Name');
-        data.addColumn('string', 'Manager');
-        data.addColumn('string', 'ToolTip');
-
-        // For each orgchart box, provide the name, manager, and tooltip to show.
-        data.addRows([
-          [{v:'Teaching', f:'Teaching<div style="color:red; font-style:italic"></div>'},
-           '', 'The President'],
-          ['Linguistics', 'Teaching', ''],
-          [{v:'Language', f:'Language<div style="color:red; font-style:italic"></div>'},
-           'Teaching', 'VP'],
-          ['Descriptive', 'Linguistics', ''],
-          ['Theoretical', 'Linguistics', ''],
-          ['Applied', 'Linguistics', ''],
-          ['Psychology', 'Teaching', ''],
-          ['Cognition & Perception', 'Psychology', ''],
-          ['English', 'Language', ''],
-          ['Turkish', 'Language', '']
-        ]);
-
-        // Create the chart.
-        var chart = new google.visualization.OrgChart(document.getElementById('chart_div'));
-        // Draw the chart, setting the allowHtml option to true for the tooltips.
-        chart.draw(data, {allowHtml:true});
-      }
-   </script>
-    </head>
-  <body>
-    <div id="chart_div"></div>
-  </body>
-
+  
   
   {% for post in site.teaching reversed %}
   {% include archive-single.html %}
