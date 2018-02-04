@@ -4,7 +4,7 @@ collection: teaching
 type: summer teaching
 permalink: /teaching/startalk-turkish.md
 venue: "Stony Brook University and Agnes Scott College"
-date: 2014, 2015, 2016 and 2017
+date: 2015-01-01
 location: "Stony Brook and Decatur, US"
 ---
 
