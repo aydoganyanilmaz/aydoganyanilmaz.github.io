@@ -1,9 +1,13 @@
 ---
 title: "StarTalk Turkish"
+collection: teaching
+type: summer teaching
 permalink: /teaching/startalk-turkish.md
 venue: "Stony Brook University and Agnes Scott College"
+date: 2014, 2015, 2016 and 2017
 location: "Stony Brook and Decatur, US"
 ---
+
 
 Here you can find more about my experience in teaching Turkish within StarTalk program.
 
