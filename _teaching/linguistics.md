@@ -1,6 +1,7 @@
 ---
 title: "linguistics"
 permalink: /teaching/linguistics
+date: 2018
 ---
 
 Description of the linguistics courses taught.
