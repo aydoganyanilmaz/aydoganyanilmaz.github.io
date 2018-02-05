@@ -1,5 +1,5 @@
 ---
-title: "linguistics"
+title: "Linguistics"
 permalink: /teaching/linguistics
 date: 2018
 ---
