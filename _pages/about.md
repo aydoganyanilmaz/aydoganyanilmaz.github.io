@@ -22,9 +22,10 @@ My industrial life
 I work as a freelance computational linguist. Lastly, I worked as a computational linguist at <a href="http://www.ntent.com/" target="_blank">NTENT</a> where I worked as a developer in semantic search for 
 natural language processing. I designed computational patterns to dissolve ambiguity or to rank query classification for relevant widgets. More about my <a href="https://aydoganyanilmaz.github.io/nlp/" target="_blank">NLP</a> experience.  
 
----
+Resume
+======
+
 Here is my current <a href="https://aydoganyanilmaz.github.io/files/AY_CV_feb18.pdf" target="_blank">resume</a>.
----
 
 
 | Recent News   |
