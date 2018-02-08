@@ -11,7 +11,7 @@ title                    : "Aydogan Yanilmaz"
 title_separator          : "-"
 name                     : &name "Aydogan Yanilmaz"
 description              : &description "PhD Candidate at SBU"
-url                      : https://aydoganyanilmaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aydoganyanilmaz.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aydoganyanilmaz/aydoganyanilmaz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Aydogan Yanilmaz"
   avatar           : "ayimage.png"
-  bio              : "PhD candidate. Working on uncertainty in language processing. Also, helping build NL(P|U) technologies."
+  bio              : "PhD candidate. Working on the uncertainty in sentence processing. Also, helping build NLP technologies."
   location         : "Queens, NY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=m15jdpIAAAAJ"
