@@ -25,7 +25,7 @@ natural language processing. I designed computational patterns to dissolve ambig
 Resume
 ======
 
-Here is my current <a href="https://aydoganyanilmaz.github.io/files/AY_CV_feb18.pdf" target="_blank">resume</a>.
+Here is my current <a href="https://aydoganyanilmaz.github.io/files/nilmaz_CV.pdf" target="_blank">resume</a>.
 
 
 | Recent News   |
