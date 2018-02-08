@@ -19,13 +19,13 @@ I am a PhD candidate at the <a href="https://linguistics.stonybrook.edu" target=
 My industrial life
 ======
 
-I am a computational linguist at <a href="http://www.ntent.com/" target="_blank">NTENT</a> where I work as a developer in semantic search for 
-natural language processing. I am designing computational patterns to dissolve ambiguity or to rank query classification for relevant widgets. More about my <a href="https://aydoganyanilmaz.github.io/nlp/" target="_blank">NLP</a> experience.  
+I work as a freelance computational linguist. Lastly, I worked as a computational linguist at <a href="http://www.ntent.com/" target="_blank">NTENT</a> where I worked as a developer in semantic search for 
+natural language processing. I designed computational patterns to dissolve ambiguity or to rank query classification for relevant widgets. More about my <a href="https://aydoganyanilmaz.github.io/nlp/" target="_blank">NLP</a> experience.  
 
 ---
 Here is my current <a href="https://aydoganyanilmaz.github.io/files/ay_cv_dec2017.pdf" target="_blank">resume</a>.
 
----
+
 
 | Recent News   |
 | :------------ |
