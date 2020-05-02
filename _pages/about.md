@@ -30,7 +30,6 @@ Here is my current <a href="https://github.com/aydoganyanilmaz/aydoganyanilmaz.g
 
 | Recent News   |
 | :------------ |
-| A <a href="https://par.nsf.gov/servlets/purl/10131048" target="_blank">paper</a> on grammatical illusions in German/Turkish bilinguals.       |
----
+| A <a href="https://par.nsf.gov/servlets/purl/10131048" target="_blank">paper</a> on grammatical illusions in German/Turkish bilinguals.|
 
 ---
