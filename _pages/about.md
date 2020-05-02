@@ -26,7 +26,7 @@ PhD progress is on hold now.
 Resume
 ======
 
-Here is my current <a href="https://aydoganyanilmaz.github.io/files/AydoganYanilmaz_CV.pdf" target="_blank">resume</a>.
+Here is my current <a href="https://github.com/aydoganyanilmaz/aydoganyanilmaz.github.io/blob/master/files/AydoganCV2020.pdf" target="_blank">resume</a>.
 
 | Recent News   |
 | :------------ |
