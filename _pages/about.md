@@ -14,8 +14,8 @@ Hi, I'm Aydogan Yanilmaz. Thanks for visiting! Below you can find a brief overvi
 My industrial life
 ======
 
-Currently I am a contractor language engineer at <a href="http://www.apple.com/" target="_blank">Apple</a> where I help <a href="http://www.apple.com/siri/" target="_blank">Siri</a> in Speech domain. Previously, I worked as a computational linguist at <a href="http://www.ntent.com/" target="_blank">NTENT</a> where I worked as a developer in semantic search for 
-natural language processing. Before that, I worked at <a href="http://www.appen.com/" target="_blank">Appen</a> to develop the error correction and detection program of Microsoft Office. More about my <a href="https://aydoganyanilmaz.github.io/nlp/">NLP</a> experience.  
+Currently I am a full-time AI/ML engineer at <a href="http://www.apple.com/" target="_blank">Apple</a>. I am glad to contribute to <a href="http://www.apple.com/siri/" target="_blank">Siri</a> in Speech domain. Previously, I worked at <a href="http://www.ntent.com/" target="_blank">NTENT</a> where I worked as a developer in semantic search for 
+natural language processing. Before that, I worked at <a href="http://www.appen.com/" target="_blank">Appen</a> to develop the error correction and detection system of Microsoft Office. More about my <a href="https://aydoganyanilmaz.github.io/nlp/">NLP</a> experience.  
 
 My academic life
 ======
@@ -30,6 +30,7 @@ Here is my current <a href="https://github.com/aydoganyanilmaz/aydoganyanilmaz.g
 
 | Recent News   |
 | :------------ |
+| Received a <a href="https://www.prnewswire.com/news-releases/the-american-turkish-society-announces-its-ninth-class-of-young-society-leaders-301203003.html" target="_blank">Young Society Leader</a> award by <a href="https://www.americanturkishsociety.org/" target="_blank">The American Turkish Society</a>|
 | A <a href="https://par.nsf.gov/servlets/purl/10131048" target="_blank">paper</a> on grammatical illusions in German/Turkish bilinguals.|
 
 ---
